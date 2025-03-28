@@ -1,0 +1,3 @@
+[submodule "backend_trendscope"]
+	path = backend_trendscope
+	url = https://github.com/Trend-Scope/backend_trendscope.git
