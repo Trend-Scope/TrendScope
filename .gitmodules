@@ -1,3 +1,6 @@
 [submodule "backend_trendscope"]
 	path = backend_trendscope
 	url = https://github.com/Trend-Scope/backend_trendscope.git
+[submodule "frontend_trendscope"]
+	path = frontend_trendscope
+	url = https://github.com/Trend-Scope/frontend_trendscope.git
